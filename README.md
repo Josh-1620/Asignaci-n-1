@@ -4,8 +4,8 @@ El código simula un operador de transporte que puede ejecutar acciones en un ve
 <img width="620" alt="image" src="https://github.com/user-attachments/assets/150a8304-e315-423a-8f59-c005c38e0bd9">
 
 https://dotnetfiddle.net/pV7IGV
-
-'''csharp
+##codigo
+```csharp
 using System;
 using System.Collections.Generic;
 
