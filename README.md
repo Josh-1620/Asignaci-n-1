@@ -3,8 +3,14 @@
 El código simula un operador de transporte que puede ejecutar acciones en un vehículo (como arrancar el motor, cargar pasajeros, recargar combustible y detener el motor) de forma ordenada. Las acciones sobre el vehículo se encapsulan en comandos que pueden ser ejecutados de forma flexible y extensible.
 <img width="620" alt="image" src="https://github.com/user-attachments/assets/150a8304-e315-423a-8f59-c005c38e0bd9">
 
+
+
+
 https://dotnetfiddle.net/pV7IGV
-##codigo
+
+
+
+
 ```csharp
 using System;
 using System.Collections.Generic;
